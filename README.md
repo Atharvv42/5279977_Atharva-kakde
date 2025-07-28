@@ -1,4 +1,2 @@
 # 5279977_Atharva-kakde
-This is my first git repository.
-<br>
-Author - Atharva (5279977)
+<img src="https://github.com/Atharvv42/5279977_Atharva-kakde/blob/main/SDLC/GL_certificate.png" alt="image" >
